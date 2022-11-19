@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Piyush Kumar
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning Artificial Intelligence fron NIET
+- 💞️ I’m looking to collaborate on some coding platforms
+- 📫 You can reach me via https://www.linkedin.com.in/piyush-kumar-40074a19a
